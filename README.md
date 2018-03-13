@@ -27,3 +27,5 @@
 ## 使用 GitHub (Using GitHub online diff)
 
 * [請點選本連結 - Click this link](https://github.com/mlouielu/cn_constitution_2018/commit/646c76a573ad49414e708c091393ddb7c437f286?diff=split)
+
+![image](https://github.com/oldmannt/cn_constitution_2018/blob/master/1831104.jpeg)(url)
